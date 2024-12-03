@@ -10,7 +10,7 @@
 
 Modul vine in 2 variante: 
 - `>Varianta pentru OG B-Hood`
-- `>Varianta Bugged`
+- `>Varianta pentru Bugged`
 
 **Pentru instalare** descarcati versiunea de care aveti nevoie si puneti fisierul .lua in folderul **MoonLoader**. 
 **Ignorati fisierele Source code, sunt generate automat**
