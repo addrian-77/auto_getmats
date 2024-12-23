@@ -47,6 +47,7 @@ function main()
     sampAddChatMessage('{6de83c}Auto getmats {FFFFFF}by {ff1900}iAdriaN {FFFFFF}loaded, [/togmats]', 0xFFFFFF)
     sampRegisterChatCommand("togmats", togMats)    
     while true do
+        wait(0)
         if enabled == true
         then
             if object1 == 0
